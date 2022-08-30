@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif" width="100%" height="300"  alt="viniciusperdigao" /> </p>
 </div>
 <h1 align="center">Olá 👋, pode me chamar de Viny!</h1>
-<h3 align="center">Sou um engenheiro civil, projetista e atualmente migrando para carreira de Cientista de Dados.</h3>
+<h3 align="center">Sou um engenheiro civil, projetista e atualmente migrando para carreira de Engenharia de Dados.</h3>
 <div style="display:inline-block;vertical-align:top;">
 
 - 🌱 Atualmente estou estudando:  **Python, SQL, PowerBI**
