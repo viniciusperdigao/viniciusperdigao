@@ -4,7 +4,7 @@
 <h3 align="center">Sou um engenheiro civil, projetista e atualmente migrando para carreira de Engenharia de Dados.</h3>
 <div style="display:inline-block;vertical-align:top;">
 
-- 🌱 Atualmente estou estudando:  **Python, SQL, PowerBI**
+- 🌱 Atualmente estou estudando:  **Python, SQL, Spark, Airflow**
 
 - 📫 E-mail: **eng.viniciusperdigao@gmail.com**
 
